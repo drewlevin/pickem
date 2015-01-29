@@ -1,0 +1,132 @@
+{"NFL" :
+  [
+    {
+      "city" : "Arizona",
+      "name" : "Cardinals"
+    },
+    {
+      "city" : "Atlanta",
+      "name" : "Falcons"
+    },
+    {
+      "city" : "Buffalo",
+      "name" : "Bills"
+    },
+    {
+      "city" : "Baltimore",
+      "name" : "Ravens"
+    },
+    {
+      "city" : "Carolina",
+      "name" : "Panthers"
+    },
+    {
+      "city" : "Chicago",
+      "name" : "Bears"
+    },
+    {
+      "city" : "Cincinnati",
+      "name" : "Bengals"
+    },
+    {
+      "city" : "Cleveland",
+      "name" : "Browns"
+    },
+    {
+      "city" : "Dallas",
+      "name" : "Cowboys"
+    },
+    {
+      "city" : "Denver",
+      "name" : "Broncos"
+    },
+    {
+      "city" : "Detroit",
+      "name" : "Lions"
+    },
+    {
+      "city" : "Green Bay",
+      "name" : "Packers"
+    },
+    {
+      "city" : "Houston",
+      "name" : "Texans"
+    },
+    {
+      "city" : "Indianapolis",
+      "name" : "Colts"
+    },
+    {
+      "city" : "Jacksonville",
+      "name" : "Jaguars"
+    },
+    {
+      "city" : "Kansas City",
+      "name" : "Chiefs"
+    },
+    {
+      "city" : "Miami",
+      "name" : "Dolphins"
+    },
+    {
+      "city" : "Minnesota",
+      "name" : "Vikings"
+    },
+    {
+      "city" : "New England",
+      "name" : "Patriots"
+    },
+    {
+      "city" : "New Orleans",
+      "name" : "Saints"
+    },
+    {
+      "city" : "New York",
+      "name" : "Giants"
+    },
+    {
+      "city" : "New York",
+      "name" : "Jets"
+    },
+    {
+      "city" : "Oakland",
+      "name" : "Raiders"
+    },
+    {
+      "city" : "Philadelphia",
+      "name" : "Eagles"
+    },
+    {
+      "city" : "Pittsburgh",
+      "name" : "Steelers"
+    },
+    {
+      "city" : "San Diego",
+      "name" : "Chargers"
+    },
+    {
+      "city" : "San Francisco",
+      "name" : "49ers"
+    },
+    {
+      "city" : "Seattle",
+      "name" : "Seahawks"
+    },
+    {
+      "city" : "St Louis",
+      "name" : "Rams"
+    },
+    {
+      "city" : "Tampa Bay",
+      "name" : "Buccaneers"
+    },
+    {
+      "city" : "Tennessee",
+      "name" : "Titans"
+    },
+    {
+      "city" : "Washington",
+      "name" : "Redskins"
+    }
+  ]
+}

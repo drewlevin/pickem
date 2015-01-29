@@ -1,0 +1,25 @@
+- Account
+    User:
+      name, email, registered on
+
+- League Summary
+    Entry:
+      Names, Users, Aggregate Results
+
+- Entry
+    Sets:
+      Aggregate Results
+
+- Set Results for League
+    Entry:
+      Aggregate Results
+
+- Set Results for Entry
+    Games:
+      Results
+
+- Set Picks
+    Games
+
+
+
