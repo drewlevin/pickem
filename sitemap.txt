@@ -1,0 +1,34 @@
+Root page - /
+  Site summary - get
+  Direct to signup / login - get
+
+Login page - /login
+  Login - post
+
+Register page /signup
+  Create an account - post
+
+Account page /user/:id
+  Show current league summaries - get
+  Edit account info - put
+
+League List page /league
+  Show public leagues - get
+  Search for specific leagues - get
+
+Specific League page /league/:id
+  Show league summary - get
+  Join league - put
+
+Entry List page
+  Show weekly summary - get
+  Show current picks - get
+  Make current picks - put
+
+Weekly Picks page
+  Show current picks - get
+  Make current picks - put
+
+
+
+
